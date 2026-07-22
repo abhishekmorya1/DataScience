@@ -1,0 +1,10 @@
+eno,ename,esal,city
+10,None,7500,noida
+20,tina,8500,delhi
+30,arun,7000,doon
+40,tina,,shimla
+50,tannu,4000,rishikesh
+60,,2500,noida
+70,nitin,,null
+80,arun,3500,doon
+90,,3000,rishikesh
